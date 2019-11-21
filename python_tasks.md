@@ -26,7 +26,7 @@
 
 **Şərtlər:**
 
-* Həll yalnız bir sətrdə yazılmalıdır.
+* Həll yalnız bir sətrdə yazılmalıdır.(İstifadəçidən input almaq sətri istisna olmaqla)
 * Cavab eynilə! tapşırıqdakı cavabda göstərilən şəkildə/məntiqdə olmalıdır.
 * Hər biri list comprehension metodundan istifadə edilərək həll edilməlidir.
 
