@@ -24,7 +24,7 @@
 
 
 
-Şərtlər:
+**Şərtlər:**
 
 * Həll yalnız bir sətrdə yazılmalıdır.
 * Cavab eynilə! tapşırıqdakı cavabda göstərilən şəkildə/məntiqdə olmalıdır.
