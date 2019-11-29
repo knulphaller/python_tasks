@@ -1,4 +1,4 @@
-### Home project
+### Home project - Menyu calculator
 
 Tapşırıq bundan ibarətdir. Restoranda yeməklərin qiymətinə əsasən sifarişin ümumi dəyərini hesablamaq. Menyu və qiymətləri özünüz təyin edə bilərsiniz.
 Məsələn: aşağıda nümunə üçün menyu göstərilib.
