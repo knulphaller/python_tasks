@@ -35,7 +35,7 @@
 
 1. **Verilən dictdə rəqəmlərin cəmini tapın: {'a':1, 'b':2, 'c':3, 'd': 156, 'e': 35}**
 
-2. **verilmiş obyekti dictə çevirin: [('Ruslan',12),('Ayten', 15),('Maqsud'20), ('Gulnar', 18), ('Vefa', 22)]
+2. **verilmiş obyekti dictə çevirin: [('Ruslan',12),('Ayten', 15),('Maqsud'20), ('Gulnar', 18), ('Vefa', 22)]**
 
 
 
